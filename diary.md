@@ -10,7 +10,7 @@ I got very excited about the character, who is just a very simple cube face. I n
 
 I also came up with a system of how the user interface is going to work, there is always RG’s face on the screen, who doesn’t let you alone. There is a text place for him, and a button/text place for the user. These 3 things should always be there, just changing the size based on function.
 
-![313470581_783384242758645_675665602606493254_n.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c755ba76-ae61-4c37-a05d-fb8216404d56/313470581_783384242758645_675665602606493254_n.jpg)
+![313470581_783384242758645_675665602606493254_n.jpg](img/313470581_783384242758645_675665602606493254_n.jpg)
 
 I’m thinking a lot if I should go in to the Unity+Vuforia direction or the website+ML5 direction. 
 
