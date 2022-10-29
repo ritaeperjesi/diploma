@@ -1,0 +1,25 @@
+### 2022.10.28.
+
+I applied to do my thesis this semester. Panic.
+
+### 2022.10.29.
+
+I made a plan on how the practical part is going to be working. I realised, that this is how I always worked in architecture school, and thinking on big papers is a lot for efficent than on miro board or anything digital. For me. 
+
+I got very excited about the character, who is just a very simple cube face. I name it R.G., from the RGB. It is supposed to be maybe orange if it’s RG. And it’s a reference to a pixel.
+
+I also came up with a system of how the user interface is going to work, there is always RG’s face on the screen, who doesn’t let you alone. There is a text place for him, and a button/text place for the user. These 3 things should always be there, just changing the size based on function.
+
+![313470581_783384242758645_675665602606493254_n.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c755ba76-ae61-4c37-a05d-fb8216404d56/313470581_783384242758645_675665602606493254_n.jpg)
+
+I’m thinking a lot if I should go in to the Unity+Vuforia direction or the website+ML5 direction. 
+
+I know how to use Vuforia, and it’s working well for the image recognition part. Having a downloadable app is also not bad. It can be designed only for phone.
+
+At the same time, it would be more easily reachable and open to the public, if it’s a website, with the image recognition working in it. Also, ml5 is being made friendly, p5 is made to be friendly, I like working in these environments more, than in Unity.
+
+I watched Daniel Shiffman’s intro to [ML5](https://www.youtube.com/watch?v=jmznx0Q1fP0) and found this trainable [image model](https://teachablemachine.withgoogle.com/train/image), which looks promising for the handdrawn drawings and people showing it in bad lighting to the camera.
+
+I also looked at the video about [doodle classifier](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/9-doodleNet/1-doodleNet) that looks promising. 
+
+Denise suggested for another project [Fungus](https://github.com/snozbot/fungus/wiki/tutorial_videos), which is a thing for unity that creates making text based games very easy, so I quickly looked into that. It looks quite simple. It also looks [customizable](https://www.youtube.com/watch?v=RdCAjpQ3iGE) how it looks.
