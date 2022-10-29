@@ -23,3 +23,5 @@ I watched Daniel Shiffman’s intro to [ML5](https://www.youtube.com/watch?v=jmz
 I also looked at the video about [doodle classifier](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/9-doodleNet/1-doodleNet) that looks promising. 
 
 Denise suggested for another project [Fungus](https://github.com/snozbot/fungus/wiki/tutorial_videos), which is a thing for unity that creates making text based games very easy, so I quickly looked into that. It looks quite simple. It also looks [customizable](https://www.youtube.com/watch?v=RdCAjpQ3iGE) how it looks.
+I started a figma page, so I can sketch the UX online.
+![figma1.jpg](img/figma1.jpg)
