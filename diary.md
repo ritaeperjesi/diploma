@@ -25,3 +25,7 @@ I also looked at the video about [doodle classifier](https://thecodingtrain.com/
 Denise suggested for another project [Fungus](https://github.com/snozbot/fungus/wiki/tutorial_videos), which is a thing for unity that creates making text based games very easy, so I quickly looked into that. It looks quite simple. It also looks [customizable](https://www.youtube.com/watch?v=RdCAjpQ3iGE) how it looks.
 I started a figma page, so I can sketch the UX online.
 ![figma1.jpg](img/figma1.jpg)
+
+### 2022.10.29.
+human language, pseudo code, code, sol lewitt instructions, more free and creative exercises too
+same backwards, write code to pseudo code in level 2, same book used twice
