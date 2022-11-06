@@ -29,3 +29,9 @@ I started a figma page, so I can sketch the UX online.
 ### 2022.10.29.
 human language, pseudo code, code, sol lewitt instructions, more free and creative exercises too
 same backwards, write code to pseudo code in level 2, same book used twice
+
+### 2022.11.05.
+A friend recommended twine for prototyping nonlinear text based stories, so I downloaded it and started to explore. It looks easy to use for making the text logic, not so easy to make it pretty, but it has html, css and javascript as well that can be changed, so there is hope. 
+
+### 2022.11.06.
+[twine tutorial to add images](https://www.youtube.com/watch?v=pXR4vC7Lmoo)
