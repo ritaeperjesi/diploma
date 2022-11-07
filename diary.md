@@ -38,4 +38,6 @@ A friend recommended twine for prototyping nonlinear text based stories, so I do
 I made a drawing in my notebook based on a Mondrian drawing, wrote the code for it first on paper, than in openprocessing (I made quite some mistakes first), and started to write the twine tutorial for this exercise. 
 I started a google doc for the sketch of the book.
 [openprocessing](https://openprocessing.org/sketch/1726527)
+![mondrian](img/cc5bf098b33c4d30e93af302e4967d81.jpg)
 ![mondrianish](img/mondrianish.png)
+![mondrianish on paper](img/mondrianishpaper.jpg)
