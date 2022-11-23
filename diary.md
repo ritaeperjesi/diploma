@@ -71,7 +71,7 @@ Made a proper plan for the project. I know, it's a bit late.
 Finalized interview questions, and trying to lure Meredith into doing the trial interview with me, but he doesn't seem to respond. I tried to select interview people based on responses.
 I talked about my thesis with Helin, she suggested a talk by Casey Reas, i found a paper about it, painting as coding. 
 I also realised twine alone is not enough, I make a prototype in unity now. Maybe I ask meredith's opinion.
-No, I don't make a prototype, as Fungus is not on asset store anymore. 
+No, I don't make a prototype, as Fungus is not on asset store anymore. No, it can work, I found a link. 
 
 
 
