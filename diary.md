@@ -49,6 +49,7 @@ meeting with Lena. table of content, questions for interview, preselection
 creating preselection questionnaire, checking it with Fanni, who is an expert on doing research
 
 ### 2022.11.16.
+I bought a good chair in IKEA. It's important to have a good chair to work. 
 Meeting with Agustin and Mario, discussing project, painting - learning how to hold the brush
 esoteric programming languages
 
