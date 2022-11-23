@@ -41,3 +41,36 @@ I started a google doc for the sketch of the book.
 ![mondrian](img/cc5bf098b33c4d30e93af302e4967d81.jpg)
 ![mondrianish](img/mondrianish.png)
 ![mondrianish on paper](img/mondrianishpaper.jpg)
+
+### 2022.11.08.
+meeting with Lena. table of content, questions for interview, preselection
+
+### 2022.11.15.
+creating preselection questionnaire, checking it with Fanni, who is an expert on doing research
+
+### 2022.11.16.
+Meeting with Agustin and Mario, discussing project, painting - learning how to hold the brush
+esoteric programming languages
+
+### 2022.11.17.
+finalizing preselection questionnaire, sending it for friends to fill in and review
+
+### 2022.11.18.
+sending out preselection questionnaire in Creative Code Berlin, Creative Code Budapest groups, and to some specific people
+
+### 2022.11.17-22.
+existential crisis of trying to write the first chapter
+learning: I need people to be in the same room. The people should be quiet. Unfortunately, Mario left to Switzerland, who is a good quiet person in the room. László stayed, but he always wanted to go to a bar, which I said no to, but wasn't productive on writing unfortunately. 
+
+### 2022.11.22.
+I was supposed to meet Lena, but wrote up the meeting time wrongly, so I didn't. I was so stressed about this meeting, suddenly as it didn't happen, my mindset got back to normal mode, which is a relief. 
+
+### 2022.11.23. 
+Made a proper plan for the project. I know, it's a bit late.
+Finalized interview questions, and trying to lure Meredith into doing the trial interview with me, but he doesn't seem to respond. I tried to select interview people based on responses.
+I talked about my thesis with Helin, she suggested a talk by Casey Reas, i found a paper about it, painting as coding. 
+I also realised twine alone is not enough, I make a prototype in unity now. Maybe I ask meredith's opinion.
+
+
+
+
