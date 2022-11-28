@@ -73,6 +73,25 @@ I talked about my thesis with Helin, she suggested a talk by Casey Reas, i found
 I also realised twine alone is not enough, I make a prototype in unity now. Maybe I ask meredith's opinion.
 No, I don't make a prototype, as Fungus is not on asset store anymore. No, it can work, I found a link. 
 
+### 2022.11.24. 
+I did a trial interview with Mario. 
+The conclusions:
+- there are some repetative questions. I asked Fanni(my researcher psychologist friend) how to deal with when they already partially answered the question by another question, but to make sure they answered.
+- I'm not sure if going through the preselection questions is necessary. It takes a lot of time. Although it helps to better understand the person's history.
+- My phoen turned off at some point at the end and stopped recording. 
+- The interesting and most meaningful part of the conversation was afterwards, when we were already saying goodbye and had a few reflections.
+- The whole interview takes a lot longer than epected, and I feel like, it didn't go as deep as I wanted to.
+- I also found it good that I was talking to somebody who has been teaching coding, so he could also talk about how for their students things work.
+
+### 2022.11.25. 
+I transcribed the interview.
+I tried to ways, one is just very concentratedly typing myself, I really enjoyed doing this.
+Mario suggested to use google's AI for speech to text. It took some time to make it happen, and it took at least the same amount of time to transcribe with it.
+It wrote some very funny things, like that Mario said he can tackle some challenges, but the AI wrote he can taco some challenges, and as Mario is mexican and keeps mentioning taco a lot, it is funny. But not so efficent in the long run. 
+I'm wondering if I should have used the argentinian english option, maybe that understands accents better, although i don't think Mario would have a strong accent.
+
+### 2022.11.26. 
+I formatted the interview better, and started color coding it, but than I realised I want to ask Lena about the #-s I'm using, if it is a good idea.
 
 
 
