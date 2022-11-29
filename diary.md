@@ -93,5 +93,9 @@ I'm wondering if I should have used the argentinian english option, maybe that u
 ### 2022.11.26. 
 I formatted the interview better, and started color coding it, but than I realised I want to ask Lena about the #-s I'm using, if it is a good idea.
 
+### 2022.11.28. 
+I followed along twine tutorials for making the prototype. 
 
+### 2022.11.29. 
+The book arrived, that I ordered a long time ago. Code as Creative Medium. It's supernice, I've been reading it and marking almost everything, as it's about teaching creative coding. 
 
