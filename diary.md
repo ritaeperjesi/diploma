@@ -91,11 +91,31 @@ It wrote some very funny things, like that Mario said he can tackle some challen
 I'm wondering if I should have used the argentinian english option, maybe that understands accents better, although i don't think Mario would have a strong accent.
 
 ### 2022.11.26. 
-I formatted the interview better, and started color coding it, but than I realised I want to ask Lena about the #-s I'm using, if it is a good idea.
+I formatted the interview better, and started color coding it, but than I realised I want to ask Lena about the #-s I'm using, if it is a good idea. I've been thinking a lot about Mario's insight, that the social aspect is very important. I also mainly keep doing duolingo,because I see my friends advancing and I don't want to be behind. 
 
 ### 2022.11.28. 
 I followed along twine tutorials for making the prototype. 
 
 ### 2022.11.29. 
-The book arrived, that I ordered a long time ago. Code as Creative Medium. It's supernice, I've been reading it and marking almost everything, as it's about teaching creative coding. 
+The book arrived, that I ordered a long time ago. Code as Creative Medium. It's supernice, I've been reading it and marking almost everything, as it's about teaching creative coding. I implemented some of the quotes to my writing, also looked up things referenced in the book. 
+
+### 2022.11.30. 
+I prepared to have an interview, but I didn't send a reminder about it, so Ati forgot about it. I was reading and writing further about creative coders.
+
+### 2022.11.31. 
+I read more. I wrote more. I went through the exercises the book suggests, which ones could be relevant for my book. 
+
+### 2022.12.1. 
+I had an interview with Ati. I transcribed the half of it. He showed me a plugin for googlemeets for transcribing ,it seems good, i'll try it next time. He said really interesting insights, i was very happy. I think my questions are good. His job is to make such interviews as a UX researcher, and I asked for feedback, and he said i did it well. 
+We had the Thesis Team meeting with Mario and Agustin. I was mostly in the need for discussing through the technological part, as I have doubt about the Unity way to go. Also about the Twine way. We discussed, and a website sounds the most reasonable and most expandable for the future in case I want more technology.
+I also realized that I want to do the book first, and then decide how to extend it with digitality. 
+
+### 2022.12.2. 
+I finished transcribing the interview with Ati, and I asked Juliane and Rachel to do an interview with me, as I realized that most of the people I interview are men. 
+I feel these discussions very valuable for making a better book. I also enjoy the transcribing process, it helps to understand and review ideas more. 
+I created an indesign file for the book, because it feels better to work in that and has more of a book format than google doc. I came up with two new exercises, which are more creative. I decided to have some open ended tasks, to inspire creativity. 
+
+
+
+
 
