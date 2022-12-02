@@ -103,7 +103,7 @@ The book arrived, that I ordered a long time ago. Code as Creative Medium. It's 
 I prepared to have an interview, but I didn't send a reminder about it, so Ati forgot about it. I was reading and writing further about creative coders.
 
 ### 2022.11.31. 
-I read more. I wrote more. I went through the exercises the book suggests, which ones could be relevant for my book. 
+I read more. I wrote more. I went through the exercises the book suggests, which ones could be relevant for my book. All the creative code community is amazing, but I'm in love with Daniel Shiffman, he has so lovely insights in the book.
 
 ### 2022.12.1. 
 I had an interview with Ati. I transcribed the half of it. He showed me a plugin for googlemeets for transcribing ,it seems good, i'll try it next time. He said really interesting insights, i was very happy. I think my questions are good. His job is to make such interviews as a UX researcher, and I asked for feedback, and he said i did it well. 
