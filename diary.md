@@ -115,6 +115,15 @@ I finished transcribing the interview with Ati, and I asked Juliane and Rachel t
 I feel these discussions very valuable for making a better book. I also enjoy the transcribing process, it helps to understand and review ideas more. 
 I created an indesign file for the book, because it feels better to work in that and has more of a book format than google doc. I came up with two new exercises, which are more creative. I decided to have some open ended tasks, to inspire creativity. 
 
+### 2022.12.3. 
+I was thinking about the exercises for the book and made a list from the exercises from the book. 
+
+### 2022.12.5. 
+I worked on the book itself.
+
+### 2022.12.6. 
+I had a meeting with Lena. I shared the questionnaire to ctech students as well, and organized one more interview. 
+
 
 
 
