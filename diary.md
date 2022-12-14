@@ -125,6 +125,12 @@ I worked on the book itself.
 I had a meeting with Lena. I shared the questionnaire to ctech students as well, and organized one more interview. 
 
 
+### this week i don't know. 
+I was reading the teaching coding book, I read some papers, i tried to write in the document. I got overly excited about the History of Logo. 
 
+### 2022.12.12
+I made an interview with Juliane, it was very useful ,because she is exactly my target audience.
+I made an interview with Kazik, who i didn't know before, and he is superinteresting. He talked about ethical coding, which was very interesting. unfortunately that was not part of the interview.
 
-
+### 2022.12.13
+I was transcribing Kazik's interview, it's a bit hard because he uses words i don't know. I have mixed feelings about the transcribing tools, because they do still a weird job, but maybe better than nothing. 
