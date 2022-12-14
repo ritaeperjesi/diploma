@@ -134,3 +134,6 @@ I made an interview with Kazik, who i didn't know before, and he is superinteres
 
 ### 2022.12.13
 I was transcribing Kazik's interview, it's a bit hard because he uses words i don't know. I have mixed feelings about the transcribing tools, because they do still a weird job, but maybe better than nothing. 
+
+### 2022.12.14
+I finished transcribing Kazik's interview, and I started Juliane's. 
