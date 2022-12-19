@@ -137,3 +137,10 @@ I was transcribing Kazik's interview, it's a bit hard because he uses words i do
 
 ### 2022.12.14
 I finished transcribing Kazik's interview, and I started Juliane's. 
+
+### 2022.12.16
+I wrote about my method. 
+
+### 2022.12.19
+I conducted an interview with Pierre. It was very useful, he had some very cool insights. Afterwards we had an interesting conversation, he also suggested for me to try peer coding, which is coding together with another person, which sounds so much better than any other coding before. 
+It really seems like, that doing coding alone is where people stop coding. 
