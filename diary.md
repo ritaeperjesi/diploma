@@ -143,4 +143,4 @@ I wrote about my method.
 
 ### 2022.12.19
 I conducted an interview with Pierre. It was very useful, he had some very cool insights. Afterwards we had an interesting conversation, he also suggested for me to try peer coding, which is coding together with another person, which sounds so much better than any other coding before. 
-It really seems like, that doing coding alone is where people stop coding. 
+It really seems like, that doing coding alone is where people stop coding. I made a summary of from my learnings for the book and website, how I want to go with it. 
