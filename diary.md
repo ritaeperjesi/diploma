@@ -143,4 +143,7 @@ I wrote about my method.
 
 ### 2022.12.19
 I conducted an interview with Pierre. It was very useful, he had some very cool insights. Afterwards we had an interesting conversation, he also suggested for me to try peer coding, which is coding together with another person, which sounds so much better than any other coding before. 
-It really seems like, that doing coding alone is where people stop coding. I made a summary of from my learnings for the book and website, how I want to go with it. 
+It really seems like, that doing coding alone is where people stop coding. I made a summary of my learnings for the book and website, how I want to go with it. Illoked for bootstrap templates for forums and chatbots, they exist, but I wasn't sure if i like them.  
+
+### 2022.12.20
+I talked through my plan with Mario, he says it's cool and had some useful input to it. I thought that it's pointless to build a forum site, if Discord already exists, and it's a platform coders use, so i tried to see how discord works, as I'm not using it too much. 
