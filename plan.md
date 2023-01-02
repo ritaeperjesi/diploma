@@ -3,24 +3,30 @@
 ## Interview
 - [x] 1. Preselection questions
 - [x] sending out preselection questions
-- [ ] choosing people to interview
-- [ ] 1.5 interview questions
-- [ ] 2. Try interview 
-- [ ] 3. Transcribe try interview
-- [ ] 4. Interview 1
-- [ ] 5. Interview 2
-- [ ] 6. Interview 3.
-- [ ] 7. Transcribe interview 1.
-- [ ] 8. Transcribe interview 2.
-- [ ] 9. Transcribe interview 3. 
+- [x] choosing people to interview
+- [x] 1.5 interview questions
+- [x] 2. Try interview - Mario
+- [x] 3. Transcribe try interview - Mario
+- [x] 4. Interview 1 - Kazik
+- [x] 5. Interview 2 - Ula
+- [x] 6. Interview 3. - Juliane
+- [x] Interview 4. - Pierre
+- [x] Interview 5. - Miklya Ati
+- [x] 7. Transcribe interview  - Mario
+- [ ] ask mario about the end of the interview to discuss
+- [x] 8. Transcribe interview - Miklya Ati
+- [x] 9. Transcribe interview - Kazik
+- [ ] Transcribe interview - Juliane
+- [ ] Transcribe interview - Ula
+- [x] transcribe interview - Pierre
 - [ ] 10. Key system
 - [ ] 11. Analyze
 
 ## Writing
-- [ ] 1. Why to code - 11.27
-- [ ] 2. What is creative code - 11.30
-- [ ] 3. Usual intro to creative coding: Example of digital methods 12.3. 
-- [ ] 4. Is it really working? Let’s ask creative coders. My method of research 1.15
+- [x] 1. Why to code - 11.27
+- [x] 2. What is creative code - 11.30
+- [x] 3. Usual intro to creative coding: Example of digital methods 12.3. 
+- [x] 4. Is it really working? Let’s ask creative coders. My method of research 1.15
 - [ ] 5. What are the keypoints for successful learning? 1.15
 - [ ] 6. What are the pain points for artist minded people in this kind of learning? 1.15
 - [ ] 7. Ok, here is my solution 12.6
@@ -32,20 +38,28 @@
 - [ ] abstract
 - [ ] forming the whole
 - [ ] reread, rewrite
-- [ ] 
+- [ ] references
 
 ## Project
-- [ ] 1. try prototype with unity 11.27.
-- [x] 2. write chapter one code
-- [ ] 2. chapter one in twine
-- [ ] 3. put chapter one in unity
-- [ ] 4. draw faces for flo
-- [ ] 5. overall design of the interface
-- [ ] 6. import flo's animations
-- [ ] 7. chapter 2 code
-- [ ] 8. chapter 2 twine
-- [ ] 9. chapter 2 unity
-- [ ] 10. make book in indesign
-- [ ] 11. print book
-- [ ] 12. try book
-- [ ] 
+- [x] Overall concept
+- [ ] what interacts with what and how
+Book:
+- [x] concept
+- [ ] chapter titles
+- [ ] chapter storyline
+- [ ] exercises
+- [ ] layout design
+- [ ] print book
+- [ ] try book
+- [ ] book binding
+Website
+- [ ] setup website - where?
+- [ ] website structure
+- [ ] website design
+- [ ] write digital leg to each exercise
+Discord
+- [ ] set up discord channel
+- [ ] how is it going to be alive?
+- [ ] discord bot tutorial megnezese
+- [ ] making chatbot
+
