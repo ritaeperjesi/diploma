@@ -147,3 +147,24 @@ It really seems like, that doing coding alone is where people stop coding. I mad
 
 ### 2022.12.20
 I talked through my plan with Mario, he says it's cool and had some useful input to it. I thought that it's pointless to build a forum site, if Discord already exists, and it's a platform coders use, so i tried to see how discord works, as I'm not using it too much. 
+Meeting with Lena. 
+
+### 2022.12.30.
+I started to transcribe Pierre`s interview.
+
+### 2022.12.31.
+I transcribed the rest of Pierre`s interview. It was very annoying because of the constant fireworks in Neukölln. I also realised that I have to slow down the audio file as he talks very very fast. 
+
+### 2023.01.01.
+I signed up for a domestika editorial design course, because i felt that i need more inspiration for the book, and if i think about it as a magazine, that could be a good way to go. I was reading the Recoding gender book, and got into a loop of articles about female coders in the time of World War 2, and the processes behind how females became more extinct from coding. It is superinteresting. I also read about Grace Hopper, and looked for the cosmopolitan article in 1967 about Coder girls.
+
+### 2023.01.02.
+I watched further the editorial course, and I layouted the book based on the learnings from there. I came up with a concept for the chapters, organized the exercises, so now the base is in indesign already. I tried to find a good rythm of exercises. I came up with a layout concept for the title pages, creative exercises, descriptions and code. I also had the concept of having the chapters with different colors: R, G, B, RG, RB, GB.
+
+### 2023.01.03.
+I finished sketching out the color schemes, and based on the printing plan of different colored pages, i restructured the chapters, so each chapter`s pages can be divided by 4. I made some designs for the chapter title pages. I looked into printing a bit, to see how these sonderfarben work.
+
+### 2023.01.04.
+I showed the current state of the book to Flo, and he had a lot of useful input to consider. We discussed printing techniques. Also we got a new concept on how to do the chapter pages. 
+
+
