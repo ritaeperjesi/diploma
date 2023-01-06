@@ -167,4 +167,6 @@ I finished sketching out the color schemes, and based on the printing plan of di
 ### 2023.01.04.
 I showed the current state of the book to Flo, and he had a lot of useful input to consider. We discussed printing techniques. Also we got a new concept on how to do the chapter pages. 
 
+### 2023.01.05.
+I went to modulor to buy materials for the chapter title graphics. I created one graphic about loops that i`m very happy about. I really enjoy working with the scanner, I think i`m getting quite good at this mixture of digital and analog techniques. I wrote the introduction to the book, the table of content, the how to use the book part, the sol lewitt exercise. I had a dilemma about if i should write as "I" or "we", so I consulted with Thomas, who is an editor. I looked for domain name for the website, which came with the dilemma of teh decode name that i`ve been using for all along. The cat was sitting on my lap while i was writing, that`s next level upgrade on working conditions. I`m considering asking my flatmate to ask his exgirlfriend if the cat could stay here for the next month, to support my thesis.
 
