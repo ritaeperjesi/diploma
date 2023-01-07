@@ -176,3 +176,5 @@ I`ve been writing the introduction of the book. I imagined it`s faster. No. I fo
 ### 2023.01.07.
 I finished writing the introduction pages and the first chapter about introductions. I`ve sent it to Rachel and Domi to get feedback. 
 I`m not fully sure if the exercises sound too random after each other, or it is understandable that I`m building them up with a logic. I try to have a good rhytm of drawing, writing text, involving others, give artistic inspiration and add creative exercises. Maybe in the bigger picture it will be understood as less random.
+I also started a document for digital interactions. What to teach for RG and what discord questions can be asked to make the discussion go. 
+
