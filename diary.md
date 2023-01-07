@@ -170,3 +170,9 @@ I showed the current state of the book to Flo, and he had a lot of useful input 
 ### 2023.01.05.
 I went to modulor to buy materials for the chapter title graphics. I created one graphic about loops that i`m very happy about. I really enjoy working with the scanner, I think i`m getting quite good at this mixture of digital and analog techniques. I wrote the introduction to the book, the table of content, the how to use the book part, the sol lewitt exercise. I had a dilemma about if i should write as "I" or "we", so I consulted with Thomas, who is an editor. I looked for domain name for the website, which came with the dilemma of teh decode name that i`ve been using for all along. The cat was sitting on my lap while i was writing, that`s next level upgrade on working conditions. I`m considering asking my flatmate to ask his exgirlfriend if the cat could stay here for the next month, to support my thesis.
 
+### 2023.01.06.
+I`ve been writing the introduction of the book. I imagined it`s faster. No. I found a nice music for concentration: Hania Rani.
+
+### 2023.01.07.
+I finished writing the introduction pages and the first chapter about introductions. I`ve sent it to Rachel and Domi to get feedback. 
+I`m not fully sure if the exercises sound too random after each other, or it is understandable that I`m building them up with a logic. I try to have a good rhytm of drawing, writing text, involving others, give artistic inspiration and add creative exercises. Maybe in the bigger picture it will be understood as less random.
