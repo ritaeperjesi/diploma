@@ -179,3 +179,6 @@ I finished writing the introduction pages and the first chapter about introducti
 I`m not fully sure if the exercises sound too random after each other, or it is understandable that I`m building them up with a logic. I try to have a good rhytm of drawing, writing text, involving others, give artistic inspiration and add creative exercises. Maybe in the bigger picture it will be understood as less random.
 I also started a document for digital interactions. What to teach for RG and what discord questions can be asked to make the discussion go. 
 
+### 2023.01.08.
+I made a new gmail and p5 account called rg.decode@gmail.com, so i can collect all the code i use in the book. I`ve put the mondrian code, a new molnar vera code  which i reworked now a bit, to make it more understandable for others, some very simple ellipse based codes. i was thinking thast i dont even need a website for the experience, as i have most of my explanation in the book now, or in outside references, and i want RG to know more. 
+
