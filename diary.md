@@ -183,4 +183,5 @@ I also started a document for digital interactions. What to teach for RG and wha
 I made a new gmail and p5 account called rg.decode@gmail.com, so i can collect all the code i use in the book. I`ve put the mondrian code, a new molnar vera code  which i reworked now a bit, to make it more understandable for others, some very simple ellipse based codes. i was thinking thast i dont even need a website for the experience, as i have most of my explanation in the book now, or in outside references, and i want RG to know more. 
 
 ### 2023.01.09.
-I had a meeting with Lena. 
+I had a meeting with Lena. I watched more of the magazine course, about paper and printing. I tried to look for riso printers.
+https://www.drucken3000.de/miscreen-a4/
