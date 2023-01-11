@@ -184,4 +184,8 @@ I made a new gmail and p5 account called rg.decode@gmail.com, so i can collect a
 
 ### 2023.01.09.
 I had a meeting with Lena. I watched more of the magazine course, about paper and printing. I tried to look for riso printers.
-https://www.drucken3000.de/miscreen-a4/
+https://www.drucken3000.de/miscreen-a4/ Even though Lena said I should stop focusing on the printing and colors, and work on other things, my brain is still very focused on this. I worked on a new concept for the color chapter page, i dont like it too much, but it`s also not fundamentally bad.
+
+### 2023.01.10.
+I worked on the setup and draw graphic. I have cut some of the letters out from cards, and i drew the if-else words on a piece of fabric and discussed the embroidery plan with patrick, to have him as a backup in case i panic and i don`t have time to embroidery. While explaining it and drawing it on the textile i realised probably it`s faster if i do it myself, than instructing him. I talked with Lilla about the color graphic, as she is the best with analog illustration and crazy colors. I brought my computer to the service and I had my hair cut, so it doesn`t annoy me anymore, big help in writing the thesis.
+
