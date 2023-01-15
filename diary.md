@@ -191,3 +191,7 @@ I worked on the setup and draw graphic. I have cut some of the letters out from 
 
 ### 2023.01.11.
 I tried to redo all the margins. I looked for inspiration for layouts, as i 'm not happy with the current state. I wrote the end of the syntax, p5 reference exercises.
+
+### 2023.01.12-15.
+I've been writing the book. I'm thinking a lot about the design meanwhile.
+I find these colors nice,https://www.behance.net/gallery/160571733/2023-Calendar?tracking_source=search_projects%7Cprint+internet , I'm thinking about using gradients, also windows printed, but i don't know if it is lame or not. I'm also thinking about badly scanned glitchy windows, but i'm not sure if aesthetic reasons are enough to use them. 
