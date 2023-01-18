@@ -195,3 +195,14 @@ I tried to redo all the margins. I looked for inspiration for layouts, as i 'm n
 ### 2023.01.12-15.
 I've been writing the book. I'm thinking a lot about the design meanwhile.
 I find these colors nice,https://www.behance.net/gallery/160571733/2023-Calendar?tracking_source=search_projects%7Cprint+internet , I'm thinking about using gradients, also windows printed, but i don't know if it is lame or not. I'm also thinking about badly scanned glitchy windows, but i'm not sure if aesthetic reasons are enough to use them. 
+
+### 2023.01.16.
+I tried to finish the writing, still not, but i made two very pretty chapter title pages, i scanned a lot of materials, which made me very happy.
+
+### 2023.01.17.
+I had a design consultation with flo. We had the idea, to print the whole book, cut it apart, and rescan it. which sounds like a huge amount of work, but also very fun, i love scanning. I was writing more of the book. I think now i understand for loop finally.
+
+### 2023.01.18.
+I finished writing all the descriptions and exercises. a few code is missing, and the outro part, but the most important parts are there in the book. I showed it to mario, he said he could use it at his class for the students, that sounds good. I looked into discord bots, watched daniel shiffman's tutorials <3. we did a research with mario too, we found this age xenio, which looked easy to use, but it wasn't clear when i have to pay. we found that we need a chatbot, there are a billion kinds of discord bots, but they don't do what i want them to do. we found another tutorial about chatbots, mario said it works how they program the conversations of the robots in his work place, which made me very excited, if sophia the robot can talk based on the same logic, my bot will be very cool!
+
+
