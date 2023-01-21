@@ -205,4 +205,8 @@ I had a design consultation with flo. We had the idea, to print the whole book, 
 ### 2023.01.18.
 I finished writing all the descriptions and exercises. a few code is missing, and the outro part, but the most important parts are there in the book. I showed it to mario, he said he could use it at his class for the students, that sounds good. I looked into discord bots, watched daniel shiffman's tutorials <3. we did a research with mario too, we found this age xenio, which looked easy to use, but it wasn't clear when i have to pay. we found that we need a chatbot, there are a billion kinds of discord bots, but they don't do what i want them to do. we found another tutorial about chatbots, mario said it works how they program the conversations of the robots in his work place, which made me very excited, if sophia the robot can talk based on the same logic, my bot will be very cool!
 
+### 2023.01.19-20.
+Back to writing the theoretical part. I'm writing about my project, I thought that's the easier part. Still going slowly. I bought a printer, so I can print the book, and it took a lot of time to set it up, it's still not working consistently. Printers are the technology of the devil. 
 
+### 2023.01.21.
+We made the chatbot work with Mario!!! Coding together is a game changer. We coded in python, and I felt surprisingly competent. 4 years ago I took a beginner python course, and I never understood why I would want to divide strings into smaller pieces, and stuff, now it makes sense! We followed 2 tutorials, we merged them successfully, we tried to put the things fully online, that didn't work, but the thing that interests me the most, coding the interaction, that works, so I'm very very happy! 
