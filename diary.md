@@ -210,3 +210,7 @@ Back to writing the theoretical part. I'm writing about my project, I thought th
 
 ### 2023.01.21.
 We made the chatbot work with Mario!!! Coding together is a game changer. We coded in python, and I felt surprisingly competent. 4 years ago I took a beginner python course, and I never understood why I would want to divide strings into smaller pieces, and stuff, now it makes sense! We followed 2 tutorials, we merged them successfully, we tried to put the things fully online, that didn't work, but the thing that interests me the most, coding the interaction, that works, so I'm very very happy! 
+
+### 2023.01.22.
+I uploaded the leftover information for the chatbot. I see some jumps in the logic, that "what", "how" and these kind of words can change the score system, so I want to sit down again and write the possible questions well. I tried to implement a random inspiration option, but it didn't work. I looked into python anywhere to host the bot, but I got confused. 
+I kind of finished writing the concept of the practical part for my theoretical part. 
