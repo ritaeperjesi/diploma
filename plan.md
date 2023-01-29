@@ -17,7 +17,7 @@
 - [x] 8. Transcribe interview - Miklya Ati
 - [x] 9. Transcribe interview - Kazik
 - [ ] Transcribe interview - Juliane
-- [ ] Transcribe interview - Ula
+- [x] Transcribe interview - Ula
 - [x] transcribe interview - Pierre
 - [ ] 10. Key system
 - [ ] 11. Analyze
@@ -33,7 +33,7 @@
 - [ ] 8. Algortihmic thinking 12.12
 - [ ] 9. From analog to digital 12.20
 - [ ] 10. algorithmic thinking through analog techniques 12. 31
-- [ ] 11. Description of my project 
+- [x] 11. Description of my project 
 - [ ] 12. Discussion
 - [ ] abstract
 - [ ] forming the whole
@@ -42,24 +42,24 @@
 
 ## Project
 - [x] Overall concept
-- [ ] what interacts with what and how
+- [x] what interacts with what and how
 Book:
 - [x] concept
-- [ ] chapter titles
-- [ ] chapter storyline
-- [ ] exercises
+- [x] chapter titles
+- [x] chapter storyline
+- [x] exercises
 - [ ] layout design
 - [ ] print book
 - [ ] try book
 - [ ] book binding
-Website
-- [ ] setup website - where?
-- [ ] website structure
-- [ ] website design
-- [ ] write digital leg to each exercise
+Chatbot
+- [x] setup chatbot
+- [ ] clean code
+- [ ] put online
+- [ ] more random stuff
 Discord
-- [ ] set up discord channel
+- [x] set up discord channel
 - [ ] how is it going to be alive?
-- [ ] discord bot tutorial megnezese
-- [ ] making chatbot
+- [ ] questions to write in channels
+
 
